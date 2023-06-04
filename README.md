@@ -18,6 +18,6 @@
 
 <div align="left">
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=arthurgrandao&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=28282B&hide_border=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgrandao&layout=compact&langs_count=7&title_color=ffffff&text_color=ffffff&icon_color=8257e6&bg_color=28282B&hide_border=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgrandao&layout=compact&langs_count=7&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=8257e6&bg_color=28282B&hide_border=true"/>  
 </div>
 
