@@ -1,23 +1,18 @@
-## 🙋‍♂️ About me
-* 👨‍🎓 Software Engineering Student at University of Brasilia, Campus Gama (UnB-FGA)
-* 🇧🇷 Brasília - DF
-* 📆 19 years old
-* <img src="https://logodetimes.com/times/flamengo/logo-flamengo-256.png" width = 15 height = 15 /> Flamenguista
+<h1 align="center">Arthur Grandão de Mello</h1>
+<p align="center">
+  <img align="center" src="https://github.com/arthurgrandao/arthurgrandao/blob/main/hulkflamenguista.gif"></img>
+</p>
+<p align="center">Software engineering student at the University of Brasilia (UnB-FGA)</p>
 
-## 👨‍💻 Languages I'm most familiar with
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<h2 align="center">Languages and tools (in progress)</h2>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=git,c,python,java"></img>
+</p>
 
-## 📫 Reach me at
-<a href = "mailto:arthur.gdemello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://discord.com/users/grandão#6016"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://t.me/arthurgrandao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-
-
-## ⚙️ GitHub Stats
-
-<div align="left">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=arthurgrandao&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=28282B&hide_border=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgrandao&layout=compact&langs_count=7&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=8257e6&bg_color=28282B&hide_border=true"/>  
-</div>
-
+<h2 align="center">Get in contact</h2>
+<p align="center">
+  <a href="mailto:arthur.gdemello@gmail.com"><img width=47 length=47 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" target="_blank"></a>
+  <a href="https://discord.com/users/grandão#6016"><img src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
+  <a href="https://t.me/arthurgrandao" target="_blank"><img width=47 length=47 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-grandão-78a34a209/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+</p>
