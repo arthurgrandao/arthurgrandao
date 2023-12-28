@@ -4,7 +4,7 @@
   <p>Software engineering student at the University of Brasilia (UnB-FGA)</p>
 
   <h2>Languages and tools (in progress)</h2>
-  <p> <img src="https://skillicons.dev/icons?i=git,c,python,java"></img> </p>
+  <p> <img src="https://skillicons.dev/icons?i=git,mysql,c,python,java"></img> </p>
 
   <h2>Get in contact</h2>
   <p> <a href="mailto:arthur.gdemello@gmail.com"><img width=47 length=47 src="https://static-00.iconduck.com/assets.00/gmail-icon-512x511-fih5xfbp.png" target="_blank"></a>
